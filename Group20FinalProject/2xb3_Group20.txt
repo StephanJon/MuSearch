@@ -1,0 +1,17 @@
+SFWR ENG 2XB3
+
+Team Members
+Bilal Jaffry	    	400067222		Front end, Searching algorithm, Project 
+						facilitator
+
+Connor Czarnuch	    	400053071  		Back end, Parsing dataset,
+						Hashing algorithm
+
+Edward Liu	    	400079479		Back end, Sorting algorithm,
+						Graphing algorithm
+
+Stephanus Jonatan	400072396		Front end, Sorting algorithm,
+						Project log
+
+Date Aprill 11th 2018:
+"The work being sumbitted is by our group work"
